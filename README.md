@@ -1,2 +1,2 @@
 # learning-about-version-control
-Derrick Jaskiel
+by: Derrick Jaskiel
